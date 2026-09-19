@@ -23,4 +23,17 @@ console.log(1 + 2 + "2"); //if string is in last then only last one treated as s
 
 console.log(+true); // true is converted to 1
 console.log(+false); // false is converted to 0
-console.log(true+);
+
+let num1 , num2 , num3 
+num1 = num2 = nnum3 = 2 + 2 // not the correct way
+
+let gamecounter = 100
+++gamecounter;
+console.log(gamecounter);//101
+
+
+// prefix increment :- 1) i++ increment in the old value of i by 1
+// prefix increment :- 2) ++i increment in the new value of i by 1
+// same for decrement
+
+
