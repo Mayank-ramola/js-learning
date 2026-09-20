@@ -1,4 +1,3 @@
-"use striict";
 // #Primitive Datatypes
 // 7 Types of Primitive Datatypes in JavaScript : String, Number, Boolean, Null, Undefined, Symbol, BigInt
 
